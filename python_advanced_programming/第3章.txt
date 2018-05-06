@@ -25,3 +25,9 @@ __new__()方法的调用会优先于__init__()初始化方法.通常来说，覆
 4.元类
 实例、类、type的关系
 -instance - is instance of -class - is instance of -type-
+
+5.python3 中新元类语法
+框架是元类真正适合使用的地方.
+
+python语言
+python语言首先被转化成抽象语法树，然后才被编译成字节码.
